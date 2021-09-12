@@ -7,18 +7,29 @@ JSON , NoSQL ,File Handling
 ## files
 
 record.json
+
 record(1).JSON
+
 Sales1.json
+
 Sales1(1).JSON
+
 IMS_project(1).ipynb
+
 IMS_project.ipynb
+
 
 # Features
 Add the product.
+
 Purchase the product.
+
 View all the product
+
 View sales
+
 Quit
+
 
 ### Other useful links
 
